@@ -12,6 +12,14 @@ A bottom-up approach to deep learning, by Prof. Andrew Ng.
 	- [Deep Neural Network Application: Image Classification](https://github.com/rliu054/coursera-deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/week_4/Deep%20Neural%20Network%20Application:%20Image%20Classification)
 
 ### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- Week 1
+	- [Gradient Checking](https://github.com/rliu054/coursera-deep-learning/tree/master/Improving%20Deep%20Neural%20Networks/week_1/Gradient%20Checking)
+	- [Initialization](https://github.com/rliu054/coursera-deep-learning/tree/master/Improving%20Deep%20Neural%20Networks/week_1/Initialization)
+	- [Regularization](https://github.com/rliu054/coursera-deep-learning/tree/master/Improving%20Deep%20Neural%20Networks/week_1/Regularization)
+- Week 2
+	- [Optimization methods](https://github.com/rliu054/coursera-deep-learning/tree/master/Improving%20Deep%20Neural%20Networks/week_2)
+- Week 3
+	- [Tensorflow Tutorial](https://github.com/rliu054/coursera-deep-learning/tree/master/Improving%20Deep%20Neural%20Networks/week_3)
 
 ### Structuring Machine Learning Projects
 No programming assignment. Andrew gave some practical advise based on his years of experience working in this industry.
