@@ -25,5 +25,16 @@ A bottom-up approach to deep learning, by Prof. Andrew Ng.
 No programming assignment. Andrew gave some practical advise based on his years of experience working in this industry.
 
 ### Convolutional Neural Networks
+- Week 1
+	- [Convolution model - Step by Step](https://github.com/rliu054/coursera-deep-learning/blob/master/Convolutional%20Neural%20Networks/week_1/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
+	- [Convolution model - Application ](https://github.com/rliu054/coursera-deep-learning/blob/master/Convolutional%20Neural%20Networks/week_1/Convolution%20model%20-%20Application%20-%20v1.ipynb)
+- Week 2
+	- [Keras Tutorial](https://github.com/rliu054/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/week_2/KerasTutorial)
+	- [ResNets](https://github.com/rliu054/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/week_2/ResNets)
+- Week 3
+	- [Car detection for Autonomous Driving](https://github.com/rliu054/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/week_3/Car%20detection%20for%20Autonomous%20Driving)
+- Week 4
+	- [Face Recognition](https://github.com/rliu054/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/week_4/Face%20Recognition)
+	- [Neural Style Transfer](https://github.com/rliu054/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/week_4/Neural%20Style%20Transfer)
 
 ### Sequence Models
