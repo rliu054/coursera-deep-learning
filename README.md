@@ -38,3 +38,16 @@ No programming assignment. Andrew gave some practical advise based on his years 
 	- [Neural Style Transfer](https://github.com/rliu054/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/week_4/Neural%20Style%20Transfer)
 
 ### Sequence Models
+- Week 1
+	- [Building a recurrent neural network - step by step](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_1/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step)
+	- [Dinosaur Island - Character-Level Language Modeling](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_1/Dinosaur%20Island%20--%20Character-level%20language%20model)
+	- [Jazz improvisation with LSTM](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_1/Dinosaur%20Island%20--%20Character-level%20language%20model)
+- Week 2
+	- [Operations on word vectors - Debiasing](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_2/Word%20Vector%20Representation)
+	- [Emojify](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_2/Emojify)
+- Week 3
+	- [Neural Machine Translation with Attention](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_3/Machine%20Translation)
+	- [Trigger word detection](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_3/Trigger%20word%20detection)
+
+--
+![](jungle.png)
