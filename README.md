@@ -49,5 +49,5 @@ No programming assignment. Andrew gave some practical advise based on his years 
 	- [Neural Machine Translation with Attention](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_3/Machine%20Translation)
 	- [Trigger word detection](https://github.com/rliu054/coursera-deep-learning/tree/master/Sequence%20Models/week_3/Trigger%20word%20detection)
 
-## Welcome To The Jungle
-![](jungle.png)
+## Author
+&copy; [Rui Liu](http://ruiliu.me)
